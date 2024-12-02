@@ -1,0 +1,45 @@
+.bg1 {
+	background-color: lightblue;
+	padding: 5px;
+	border: 3px black solid;
+	border-radius: 20px;
+}
+
+.textbox {
+	width: 400px;
+	padding: auto;
+}
+
+.textbox2 {
+	width: 400px;
+	padding: auto;
+	margin-left: 400px;
+}
+
+.textbox3 {
+	width: 400px;
+	padding: auto;
+	margin-left: 400px;
+}
+
+.rbc {
+	text-align: center;
+}
+
+.rbc1 {
+	text-align: left;
+}
+
+.bg3 {
+	margin-left: 400px;
+}
+
+.custom-select {
+	width: 200px;
+}
+
+.boodi3 {
+	width: 400px;
+	height: 100px;
+	text-align: center;
+}
